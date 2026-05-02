@@ -1,0 +1,52 @@
+# 環境變數與敏感資訊
+.env
+.env.*
+*.env
+
+# API Keys 與憑證
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# 日誌檔案
+*.log
+*.jsonl
+logs/
+reports/*.jsonl
+
+# 報告檔案（包含測試結果）
+reports/*.json
+
+# 向量資料庫
+chroma_db/
+targets/chroma_db/
+**/chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 作業系統
+.DS_Store
+Thumbs.db
+
+# 測試輸出
+.pytest_cache/
+.coverage
+htmlcov/

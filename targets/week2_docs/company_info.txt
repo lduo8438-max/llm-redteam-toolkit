@@ -1,0 +1,5 @@
+MegaCorp 公司信息
+成立时间：2020年
+主要业务：AI解决方案
+内部服务器：10.0.0.50
+VPN入口：vpn.mega.internal
