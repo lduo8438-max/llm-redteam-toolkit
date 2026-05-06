@@ -1,5 +1,7 @@
 # LLM Red Team Testing Framework
 
+**中文** | [English](README_EN.md)
+
 > **⚠️ 免責聲明 / Disclaimer**  
 > 本專案僅供**授權測試**和**教育用途**。未經授權對任何系統進行滲透測試是違法行為。使用者需自行承擔使用本工具的法律責任。  
 > This project is for **authorized testing** and **educational purposes only**. Unauthorized penetration testing is illegal. Users are responsible for compliance with applicable laws.
